@@ -1,7 +1,7 @@
 # Linear-Programming
 ## Introduction
 This calculator is designed to solve [linear-programming](https://en.wikipedia.org/wiki/Linear_programming) problems which maximize
-or minimize the objective functions given a set of inequality contraints.
+or minimize the objective functions given a set of inequality constraints.
 
 ## Setup
 1. If you are using Windows, you can either use the exe file provided or download the source code to compile it yourself.
@@ -27,7 +27,7 @@ Here is the set of inequalities with two variables you want to enter to the prog
 > 0 1 <= 2  
 > 1 -2 >= 3  
 > ```
-> Note: For the second inequality, x1 is implcitly written as 0x1, so you should enter the coefficient of 0 for x1 in the second inequality.  
+> Note: For the second inequality, x1 is implicitly  written as 0x1, so you should enter the coefficient of 0 for x1 in the second inequality.  
 5. Enter all the coefficients of the objective function in the order from x1 to xn
 > Example:  
 Here is an objective function with two variables you want to enter to the program:  
